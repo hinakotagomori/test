@@ -1,0 +1,43 @@
+h1{
+    border-left:5px solid black;
+    border-bottom:2px solid black;
+}
+
+#setsumei{
+    font-size: 20px;font-family:serif;
+    border:5px dotted blue;
+}
+
+#study{
+    border-top:3px solid gray;
+    border-bottom: 3px double black;
+}
+
+.abc{
+    padding-top: 50px;
+    padding-left: 10px;
+}
+
+.pic
+    margin-left:400px;
+    margin-top: 100px;
+
+.img{}
+
+.main{
+    font-size:30px;
+    margin-top:30px;
+    }
+
+p{
+    padding-left: 20px;
+}
+
+.box1{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.box2{
+    margin: 50px
+}

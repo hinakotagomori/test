@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UFT-8">
+        <title>【演習】for文を使用してプルダウンメニュー</title></head>
+
+    <body>
+    
+        <form>
+         <select name="age">
+            <option>選択してください</option>
+                <script>
+                 for(var age=18;age<=65;age++){
+                     document.write("<option>");
+                     document.write(age);
+                     document.write("</option>");
+                 }  
+                </script>
+        </select>
+        </form>
+    
+    </body>
+
+
+
+</html>
